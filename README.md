@@ -5,16 +5,18 @@ OS Kali Linux
 linguagem python.
 
 
-primeiro Passo:
+Passo 1:
 Temos um arquivo teste.txt em uma pasta no kali linux
 ![image](https://github.com/user-attachments/assets/8824732d-3703-4f7b-bd0d-323c65c01950)
 
 Ao abrir esse arquivo da para verificar que está com os dados corretos.
 
+![image](https://github.com/user-attachments/assets/b907becd-5a2a-4ed9-830e-a44a70281527)
+
+Passo 2:
 Vamos usar o script agora de criptografar o arquivo, usamos o nano e criando o arquivo encrypter.py em python.
 
 ![image](https://github.com/user-attachments/assets/ae35fed5-bd94-440a-b914-ea04403927e4)
-
 
 usando o comando python encrypter.py podemos verificar que alterou o nome do arquivo para teste.txt.pegadinhadoveinho (pode ser qualquer nome escolhido)  e ao abrir com o nano vejamos que todos os dados estão criptografados.
 
@@ -22,6 +24,7 @@ usando o comando python encrypter.py podemos verificar que alterou o nome do arq
 
 ![image](https://github.com/user-attachments/assets/4d78d16b-0563-4e89-b605-a1696fc3ab85)
 
+Passo 3:
 Para descriptograr o arquivo, vamos usar o script decrypter.py, com o comando python decrypter.py
 
 ![image](https://github.com/user-attachments/assets/78b08a10-d442-4679-9e71-cf4ac762abed)
